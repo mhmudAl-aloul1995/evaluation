@@ -1,0 +1,4 @@
+php artisan krlove:generate:model Donor --table-name=donors
+php artisan krlove:generate:model Orphan --table-name=orphans
+php artisan krlove:generate:model Receipt --table-name=receipts
+php artisan krlove:generate:model Donororph --table-name=donororphs
